@@ -92,7 +92,7 @@ scheduleData:
         location: Level 4 LT2
       - name: Nadir Appointment Slots
         start: 12:00 PM
-        end: 1:00 PM
+        end: 2:00 PM
         location: Faculty Office Level 4
 
   - name: Tuesday
@@ -108,10 +108,6 @@ scheduleData:
         start: 2:30 PM
         end: 4:00 PM
         location: Level 4 LT1
-      - name: Nadir Appointment Slots
-        start: 4:30 PM
-        end: 5:30 PM
-        location: Faculty Office Level 4
 
   - name: Thursday
     events: []  # Explicitly define an empty list for events
